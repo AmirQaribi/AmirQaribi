@@ -1,87 +1,117 @@
-# Amir Qaribi: The Day Microsoft Gave an 18-Year-Old the Infinity Gauntlet
+# Amir Qaribi – From Code to Continuum 🚀
 
-![Amir Qaribi](https://amirqaribi.ir/images/profile.jpg)  
-*Caption: “Build finished in 4.2 s → one victory dab allowed.”*
+<div align="center">
+  <img width="200" height="200" alt="Amir Qaribi" src="https://github.com/user-attachments/assets/a13d2745-da84-403e-b542-903a1dd1eef3" />
+  <p>
+*"Every line of code is a story waiting to unfold."*</p>
+</div>
 
-Welcome to the only GitHub README that auto-plays the SpongeBob “Sweet Victory” trumpet.  
-I’m **Amir**, Tehran’s Minister of Digital Chaos, and this is the director’s-cut of my life in code.
 
-## Episode I – 2017: The .NET Big Bang  
-Summer. I’m 18. Fresh high-school diploma still smells like ink.  
-First paycheck lands. Boss drops a bomb:  
-“Build a Dynamics plugin that runs in 0.3 s or the client walks.”  
-I open Visual Studio, fingers shaking, type:  
-```csharp
-public class HelloWorldPlugin : IPlugin { … }
-Hit F5.
-Server replies: 200 OK.
-That exact millisecond I pledge my soul to .NET.
-Since then I’ve shipped:
+---
 
-47 production plugins (zero crashes, infinite bragging rights)
-2 full ERP back-ends from .NET Core 2.0 → .NET 8 → .NET 10 preview
-1 internal CRM that saved 400 hours/month (they sent cake AND a trophy)
+## 🎬 Episode I – Origins: A Spark in the Code 🏗️
 
-Episode II – The Closed-Source Oath (the legend you asked for)
-While Reddit screamed “open-source or bust,” 19-year-old me whispered:
-“Watch this.”
-I ship polished, enterprise-grade nuggets that live behind biometric locks and NDAs.
-My repos are speakeasies: velvet rope, secret knock, password = “SatyaWasHere”.
-Open-source? Cute.
-My code gets escorted by security guards and served on silver platters.
-Episode III – Skill Galaxy (now with zero progress bars, 100 % fireworks)
-Power Platform Planet
+In **2017**, I typed my first line of **C# in .NET Core**, unaware that a single line could ignite a lifelong journey.  
+It wasn’t just syntax — it was the first page of a story I would continue to write every day.  
 
-Dynamics 365 CE – plugins faster than your coffee order
-Power Apps – canvas, model-driven, portals before breakfast
-Power Automate – 2 000 flows, zero “I emailed the board” scandals
-Power BI – dashboards that get marriage proposals
-Dataverse – my tables have tables
+That year, I stumbled upon **Microsoft Dynamics 365**, a world where curiosity became direction.  
+As a junior developer, I built plug-ins, customized forms, and learned the rhythm of **data, design, and automation moving in perfect harmony**.  
 
-Microsoft 365 Constellation
+By **2019**, freelancing became my playground. Each project — whether with **Angular, Flutter, Docker, or PowerShell** — sharpened my instincts: **simplicity wins, performance matters, clarity is the soul of clean code**.  
 
-SharePoint lists that load before gossip
-Teams bots that roast politely
-Graph API = my love language
-Copilot speaks Farsi dad jokes (I trained it)
+Today, I orbit the constellation of **Dynamics 365, Power Platform, Azure, .NET ASP**, and a growing passion for **AI**, weaving stories from systems and solutions alike.
 
-Azure Nebula
+---
 
-Entra ID: 10 000 users spawned in one espresso shot
-Logic Apps: Power Automate’s Harley-riding cousin
-DevOps pipelines that finish before the CI fairy blinks
+## 🔒 Episode II – The Closed-Source Discipline
 
-Backend Black Hole
+I ventured behind enterprise firewalls, where code doesn’t seek applause but earns **trust**.  
 
-C# so clean it squeaks
-EF Core data massages (5-star spa included)
-Unit tests @ 100 % – I run them in my sleep
-Design Patterns – collected like Pokémon cards
+In the shadows of NDAs, I’ve built tools that guide thousands:  
 
-Chaos Drawer of Extra Powers
-textREST • GraphQL • Docker • Git • Mikrotik • PowerShell  
-Flutter • TypeScript • Photoshop • Illustrator  
-Financial Systems (yes, I speak CFO fluently)
-Episode IV – Current Quests
+- Crafted confidential CRM extensions  
+- Orchestrated end-to-end Power Automate workflows  
+- Delivered stability quietly, leaving stars and likes to others  
 
-Turn 47-step paper forms into one QR code
-Make Copilot summarize meetings before they start
-Convince stakeholders that low-code is actually high-sorcery
+Here, I learned that software is not just lines — it’s **a promise kept silently**.
 
-Episode V – Summon Me
+---
 
-Portfolio Bat-Signal: AmirQaribi.ir
-LinkedIn Owl: linkedin.com/in/amirqaribi
-Instagram Cat Tax: instagram.com/_amirqaribi
-Magic Mailbox: hello@amirqaribi.ir → subject “High Five” = warp-speed reply
+## 🌌 Episode III – Systems & Skills: The Engineer’s Galaxy
 
-Final Boss – YOU
-Got a process uglier than Clippy on dial-up?
-Slide into my DMs.
-We’ll make Microsoft applaud, your users moonwalk, and your boss send edible arrangements.
-Ctrl+S saved. Deploy button YEETED. Cloud = couch.
-Secret Post-Credit Scene
-This cinematic README was co-piloted by Grok, the AI who turned my 18-year-old .NET origin story into pure GitHub dopamine.
-Thanks, Grok — you absolute legend.
-↑↑↓↓←→←→BA → dark-mode resume unlocked.
-You’re welcome.
+### ⚙️ Power Platform Universe
+- **Dynamics 365 CE** – plugins that hum with precision  
+- **Power Apps** – canvas, model-driven, and portals that tell stories  
+- **Power Automate** – flows that dance across teams  
+- **Power BI** – dashboards that speak executive language  
+- **Dataverse** – the backbone of enterprise intelligence  
+
+### 💼 Microsoft 365 & Collaboration Layer
+- **SharePoint** – knowledge organized at lightning speed  
+- **Teams Bots** – automation with subtle wit  
+- **Graph API** – orchestrating data like a symphony  
+- **Copilot Customization** – teaching AI to understand context  
+
+### ☁️ Azure & Cloud Infrastructure
+- **Entra ID** – 10,000+ identities managed like clockwork  
+- **Logic Apps** – enterprise workflows, elegantly executed  
+- **DevOps Pipelines** – deploys faster than espresso  
+
+### 🧠 Backend Engineering
+- **C# architecture** sculpted for elegance  
+- **EF Core** optimized for scale  
+- Unit testing & pattern-driven design as instruments of mastery  
+
+### 🧰 Complementary Stack
+`REST • GraphQL • Docker • PowerShell • Flutter • TypeScript • Illustrator • ERP & Financial Systems`
+
+---
+
+## 🔭 Episode IV – Current Focus: Designing Intelligence
+
+Now, I shape intelligence at the crossroads of **Dynamics 365, Power Platform, Azure, and .NET 10**.  
+
+- AI that collaborates, summarizes, and suggests insights  
+- Low-code platforms that scale teams effortlessly  
+- Systems resilient, intelligent, adaptive  
+
+The story continues — a saga of solutions that anticipate tomorrow.
+
+---
+
+## 🌐 Episode V – Connect & Collaborate
+
+The journey spans **.NET, Dynamics 365, Power Platform, Azure, AI**, yet the odyssey never ends.  
+
+**Join the narrative:**  
+- Portfolio: [AmirQaribi.ir](https://amirqaribi.ir)  
+- LinkedIn: [linkedin.com/in/amirqaribi](https://linkedin.com/in/amirqaribi)  
+- Instagram: [instagram.com/_amirqaribi](https://instagram.com/_amirqaribi)  
+- Telegram: [telegram.me/amirqaribi](https://telegram.me/amirqaribi)  
+- Email: [amirqaribi@outlook.com](mailto:amirqaribi@outlook.com)  
+
+### ☕ Fuel the Code Engine
+<div align="center">
+<a href="https://ton.app/pay/transfer/UQDo5DO2ykJ3CySHbyfnDjl4f36EYggNDvHDiyYKQEakyURN?amount=2000000000&text=For%20a%20Coffee" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=for-the-badge" alt="Buy Me a Coffee">
+</a>
+<p>Keep the stories flowing ☕</p>
+</div>
+
+---
+
+## 🎭 Philosophy Behind the Code
+
+- Traveler & curious by nature  
+- Coffee enthusiast & city-life addict  
+- Theater & cinema devotee  
+
+Code without philosophy is instructions; code with philosophy is **living craft**.
+
+---
+
+## 🎬 Epilogue – Hidden Credits
+
+Co-piloted by **ChatGPT**, who helped translate the journey into narrative form.  
+
+↑↑↓↓←→←→BA → *dark-mode resume unlocked.*
