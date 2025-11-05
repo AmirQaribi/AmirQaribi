@@ -51,9 +51,6 @@ Here, I learned that software is not just lines — it’s **a promise kept sile
 - **EF Core** optimized for scale  
 - Unit testing & pattern-driven design as instruments of mastery  
 
-### 🧰 Complementary Stack
-`REST • GraphQL • Docker • PowerShell • Flutter • TypeScript • Illustrator • ERP & Financial Systems`
-
 ---
 
 ## 🔭 Episode IV – Current Focus: Designing Intelligence
@@ -102,5 +99,3 @@ Code without philosophy is instructions; code with philosophy is **living craft*
 ## 🎬 Epilogue – Hidden Credits
 
 Co-piloted by **ChatGPT**, who helped translate the journey into narrative form.  
-
-↑↑↓↓←→←→BA → *dark-mode resume unlocked.*
