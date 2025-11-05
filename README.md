@@ -1,6 +1,3 @@
-# Amir Qaribi – From Code to Continuum 🚀
-
-
 ## 🎬 Episode I – Origins: A Spark in the Code 🏗️
 
 In **2017**, I typed my first line of **C# in .NET Core**, unaware that a single line could ignite a lifelong journey.  
