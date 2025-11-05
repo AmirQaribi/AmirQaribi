@@ -1,13 +1,5 @@
 # Amir Qaribi – From Code to Continuum 🚀
 
-<div align="center">
-  <img width="200" height="200" alt="Amir Qaribi" src="https://github.com/user-attachments/assets/a13d2745-da84-403e-b542-903a1dd1eef3" />
-  <p>
-*"Every line of code is a story waiting to unfold."*</p>
-</div>
-
-
----
 
 ## 🎬 Episode I – Origins: A Spark in the Code 🏗️
 
