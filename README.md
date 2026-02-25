@@ -69,6 +69,12 @@ The story continues — a saga of solutions that anticipate tomorrow.
 
 The journey spans **.NET, Dynamics 365, Power Platform, Azure, AI**, yet the odyssey never ends.  
 
+<div align="left">
+<a href="https://amirqaribi.ir/AmirQaribi-CV.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Download-CV_File-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV File">
+</a>
+</div>
+  
 **Join the narrative:**  
 - Portfolio: [AmirQaribi.ir](https://amirqaribi.ir)  
 - LinkedIn: [linkedin.com/in/amirqaribi](https://linkedin.com/in/amirqaribi)  
@@ -76,7 +82,10 @@ The journey spans **.NET, Dynamics 365, Power Platform, Azure, AI**, yet the ody
 - Telegram: [telegram.me/amirqaribi](https://telegram.me/amirqaribi)  
 - Email: [amirqaribi@outlook.com](mailto:amirqaribi@outlook.com)  
 
+  
+<div align="center">
 ### ☕ Fuel the Code Engine
+</div>
 <div align="center">
 <a href="https://ton.app/pay/transfer/UQDo5DO2ykJ3CySHbyfnDjl4f36EYggNDvHDiyYKQEakyURN?amount=2000000000&text=For%20a%20Coffee" target="_blank">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=for-the-badge" alt="Buy Me a Coffee">
